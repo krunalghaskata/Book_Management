@@ -1,0 +1,583 @@
+Hello,
+
+Following are the updates for 25th dec 2023:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have learn javascript string method , array method, loop
+2. I have setup a new demo project
+3. I have create user model API
+4. I have a create and register API
+5. i have  create login API
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+
+Thanks.
+
+
+Hello,
+
+Following are the updates for 26nd dec 2023:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have  create all user find API
+2. I have  create user update API
+3. I have  create delete user API
+4. I have  create id using user get API
+5. I have  set  JWT token and password Hash functionality
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+
+Thanks.
+
+
+
+Hello,
+
+Following are the updates for 27nd dec 2023:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have generate token 
+2. I have set authorization
+3. I have create role admin or user
+4. I have  find error and solve 
+ 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+
+Thanks.
+
+
+
+
+
+Hello,
+
+Following are the updates for 28nd dec 2023:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have Author field add in  user role
+2. I have create book model 
+3. I have create book controller or Route
+4. I have file structure change
+5. I have only user create book 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+
+Thanks
+
+
+
+ 
+Hello,
+
+Following are the updates for 29nd dec 2023:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have  javascript array or object concept learn
+2. I have  create book getId find API
+3. I have   create  only author person create book
+4. I have  create allBook find API 
+5. I have  create Message file
+6. I have  a find and fix error
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+
+Thanks.
+
+
+
+Hello,
+
+Following are the updates for 1st Jan 2024:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have  create books Updated API ,  
+2. I have  create books delete API ,
+3. I have  a find and fix error  
+4. I have  books table role field add  
+5. I have  Author The book created by him is saved in his table
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+
+Thanks.
+
+
+Hello,
+
+Following are the updates for 2nd Jan 2024:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I learn and practice aggregation
+2.  
+3. I have author can create Book  we will find Book  
+4. I have find and fix error  
+   
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+Thanks. 
+
+
+
+
+Hello,
+
+Following are the updates for 3rd Jan 2024:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have  set  author can upadate book with authorization
+2. I have  set  author can delete book with authorization 
+3. I'm learning the populate method in NodeJ how it works in a project
+4. If the author creates a book and finds that book, the details of the author will be find
+5. I have error find and fix all
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+Thanks. 
+
+
+
+
+Hello,
+
+Following are the updates for 4rd Jan 2024:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have  learn cookie  and req.quary.params  
+2. I have  create public folder and store book Image
+3. I have  create multer middleware file
+4. I have  set  image upload in database 
+5. I have  error find and fix all
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+Thanks. 
+
+
+Hello,
+
+Following are the updates for 5th Jan 2024:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have  learn populate and  
+2. I have  create public folder and store book Image
+3. I have  create multer middleware file
+4. I have  learn nodemailer and file create 
+5. I have  error find and fix all
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+Thanks. 
+
+
+
+Hello,
+
+Following are the updates for 08th Jan 2024:
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have lerning query,sorting , serching method in nodeJs and practice
+2. I have book model image field add 
+3. I have book image update and delete
+4. I have set functionality are book sorting a price
+5. I have set the functionality when searching it is name and description book search
+6. I have error find and fix all
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+Thanks. 
+
+
+
+Hello,
+
+Following are the updates for 09th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have leaning rateLimit in nodeJs and practice
+2. I have learning validation in nodeJs and practice 
+3. I have set it so that a user can hit the API within the limit
+4. I have create FileSystem file in image update are handle and store
+5. I have error find and fix all
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+Thanks. 
+
+
+
+
+Hello,
+
+Following are the updates for 10th jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have create cart model file 
+2. I have create cart router file 
+3. I have create cart controller
+4. I have set functionality that user can add to cart book
+5. I have set it so that user can delete the cart
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 11th jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have changed functionality in add to cart 
+2. I have changed are add-to-cart model changed are nested field   
+3. I have a user who adds multiple books to the cart and is an old user, their items will be stored in their object.
+4. I have find and fix error in priview  code
+ 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 12th jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1. I have changed the functionality in the remove cart
+2. I have learning in javascript array method and practice
+3. I have learning nodejs redis client 
+4. I have find and fix error in remove cart
+ 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 16th jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have set that user can remove from book cart and quantity are increment in book table 
+2 I have set that user can update a cart
+3.I learn JavaScript that array method is findIndex(),findLastIndex(),includes(),
+        find(),
+4.I found a bug in the preview code and fixed it
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 17th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have Changed functionality in add to cart code
+2 I have Changed functionality in remove cart code
+3.I have functionality set it to get the total price of all cart 
+4.I have functionality set Duplicate cart are not added
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ 
+Hello,
+
+Following are the updates for 18th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1 i have created order model
+2 i have created order controller and router 
+3.i have set functionality  User can order book from cart
+4.i have set Update cart changes functionality and bug fixes	
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 19th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have set When the user confirms the order, the quantity of the book is decremented
+2 I have  set   user can one cart find 
+3.I have  set  user can all  cart find 
+4 I have  set   user can one order find  
+5.I have  set  user can all  order find 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 22th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have  get all cart and get all order delete   file removed
+2 I have set are If you order from the cart, if the cart is empty, the cart will be deleted
+3.I have can I did nodeJs learning today and from that image upload in database and update image 
+4.I have  found the error and fixed it in the code behind 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 23th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have set the functionality to allow the author to search all orders of a particular book API create
+2 I have set functionality to show order status
+3.i have did Learn nodejs  on youtube in advance topic and practice 
+4.I have  found the error and fixed it in the code behind 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 24th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have  set the author can search and check whether the order is pending, canceled and confirmed
+2 I have set that the author can check and update the status of the order, cancel or confirm the order.
+3.I learn nodeJs in youtube and peactice in project 
+4.I have  found the error and fixed it in the code behind
+ 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 25th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have create  send mail API
+2 I have set A mail is sent when a user signs up
+3.i have set  author can find status wise order find 
+4.I have set  functionality  user can logOut 
+5.I have learned nodemailer on youtube and google and worked in projects
+ 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 30th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have  set Author can update  book
+2.I have installed xampp
+3.I have learning mySQL in youtube and google 
+4.I have create second demo project create using node with mysql 
+5.I have set the functionality, the image is updated, the old image is unlinked using multer
+ 
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ Hello,
+
+Following are the updates for 31th Jan 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have learn  aggregation    
+2.I have create aggregation API 
+3.I have set  that we can get the author data through aggregation 
+4.I have learned and worked on project how aggregation works  in Lookup, Match, AddFields  in project. 
+5.I have set up multiple file uploads in the book using Multer
+6.I have  found the error and fixed it in the code behind   
+ 
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ thanks.
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 01st  Feb 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I learn and practice aggregation
+2.I learn and practice  aggregation to group,count , limit, skip,unwind ,sort, unset,project,graphLookup ,search 
+3.Fixed bug ==>If user places order from cart, if cart is empty, cart will be deleted
+4.I have set from Aggregation to find the book and find the author details
+5.I have set functionality are user can  only password updated 
+  
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ 
+ thanks.
+ 
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 02st  Feb 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have  create forgotPassword API user can forgotPassword 
+2.I have  create resetPassword API user can resetPassword   
+3.I have set User can send mail in multiple files 
+4.I have create OTP model 
+ 
+  
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ 
+ thanks.
+ 
+ 
+ Hello,
+
+Following are the updates for 05th  Feb 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have created generator OTP API to send otp to email
+2.I have created a verify OTP API that verifies the otp  
+3.I have created a delete OTP API that  delete the otp
+4.I have   set  email validation 
+5.I have set the functionality of OTP hashing
+  
+List of In-progress Tasks:
+-----------------------------------------------------------------
+ 
+ 
+ thanks.
+ 
+ 
+ 
+ 
+ 
+ 
+ Hello,
+
+Following are the updates for 06th  Feb 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I am learning nodejs cluster 
+2.I have fixed the error in Forgot Password and Reset Password
+3.I have set that the OTP expires after 30 seconds  has been time out 
+4.I have set  functionality otp generator happens when user signup 
+  
+List of In-progress Tasks:
+-----------------------------------------------------------------
+  
+ thanks.
+ 
+ 
+ Hello,
+
+Following are the updates for 07th  Feb 2024;
+
+List of Completed Tasks:
+-----------------------------------------------------------------
+1.I have  set errro handling  in status code 
+2.I have set that the user can verify the generated OTP while signing up
+3.I have set that when user login if otp is not verified then login will not happen
+4.I have found and fixed bugs in Add to Cart
+
+List of In-progress Tasks:
+-----------------------------------------------------------------
+  
+ thanks.
